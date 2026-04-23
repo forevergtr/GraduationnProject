@@ -1,0 +1,32 @@
+{
+	"pages": [
+		{ "path": "pages/login/login", "style": { "navigationBarTitleText": "登录" } },
+		{ "path": "pages/index/index", "style": { "navigationBarTitleText": "首页" } },
+		{ "path": "pages/appointment/appointment", "style": { "navigationBarTitleText": "预约挂号" } },
+		{ "path": "pages/online_consult/online_consult", "style": { "navigationBarTitleText": "线上问诊" } },
+		{ "path": "pages/record/record", "style": { "navigationBarTitleText": "挂号记录" } },
+		{ "path": "pages/payment/payment", "style": { "navigationBarTitleText": "门诊缴费" } },
+		{ "path": "pages/checkup_appoint/checkup_appoint", "style": { "navigationBarTitleText": "体检预约" } },
+		{ "path": "pages/health_center/health_center", "style": { "navigationBarTitleText": "健康管理中心" } },
+		{ "path": "pages/report/report", "style": { "navigationBarTitleText": "检验检查" } },
+		{ "path": "pages/guide/guide", "style": { "navigationBarTitleText": "就诊指引" } },
+		{ "path": "pages/inpatient_payment/inpatient_payment", "style": { "navigationBarTitleText": "住院预交金" } },
+		{ "path": "pages/daily_list/daily_list", "style": { "navigationBarTitleText": "每日清单" } },
+		{ "path": "pages/discharge/discharge", "style": { "navigationBarTitleText": "出院结算" } },
+		{ "path": "pages/record_copy/record_copy", "style": { "navigationBarTitleText": "病案复印" } },
+		{ "path": "pages/hospital_intro/hospital_intro", "style": { "navigationBarTitleText": "医院简介" } },
+		{ "path": "pages/obstetrics/obstetrics", "style": { "navigationBarTitleText": "产科建档(新)" } },
+		{ "path": "pages/feedback/feedback", "style": { "navigationBarTitleText": "就医反馈" } },
+		{ "path": "pages/checkup_register/checkup_register", "style": { "navigationBarTitleText": "体检注册" } },
+		{ "path": "pages/qrcode/qrcode", "style": { "navigationBarTitleText": "就诊码" } },
+		{ "path": "pages/profile/profile", "style": { "navigationBarTitleText": "个人中心" } },
+		{ "path": "pages/notification/notification", "style": { "navigationBarTitleText": "检验报告提醒" } }
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "智慧医疗",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
